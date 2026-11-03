@@ -11,12 +11,17 @@ I build practical AI systems that connect machine learning and generative AI to 
 
 An AI-assisted construction permit pre-review platform focused on retrieving relevant technical evidence, assessing evidence sufficiency, and generating traceable findings. The public repository explains system architecture, evaluation methodology, and engineering decisions. **Commercial implementation source code is private.** The tool supports human review and does not issue official permit decisions.
 
-### 2. [Plant Seedlings Image Classification](https://github.com/hupomene/Computer-Vision-Project-Plant-Seedlings-Image-Classification)
+### 2. [CARES — U.S. Army SBIR Multi-Sensor AI Monitoring](projects/CARES-SBIR.md)
+**Principal Investigator · CNN–LSTM · Multi-Sensor AI · Temporal Pattern Analysis**
+
+Led the AI technical approach for an Army SBIR Phase I research effort focused on contact-free monitoring of working dogs. The public case study summarizes engineering responsibilities and technical scope without exposing restricted program materials.
+
+### 3. [Plant Seedlings Image Classification](https://github.com/hupomene/Computer-Vision-Project-Plant-Seedlings-Image-Classification)
 **Computer Vision · Deep Learning · Image Classification**
 
 A historical image-classification notebook project demonstrating earlier computer vision modeling work. Its README explains the available artifacts and reproducibility limitations; it is not presented as a deployed production service.
 
-### 3. [Probability of Approval Model](https://github.com/hupomene/PoA-model)
+### 4. [Probability of Approval Model](https://github.com/hupomene/PoA-model)
 **Machine Learning · Python · Flask**
 
 An earlier probability-estimation model and Flask inference interface. The public code is a historical project; security-hardening changes are under review rather than merged into the default branch.
